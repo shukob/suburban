@@ -1,2 +1,2 @@
 # suburban
-Transform any Clifford hamiltonian into 2-local Ising hamiltonian
+Transform any Clifford hamiltonian into 2-local classical Ising hamiltonian
